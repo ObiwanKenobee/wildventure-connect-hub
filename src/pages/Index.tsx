@@ -2,6 +2,7 @@
 import Hero from "@/components/Hero";
 import Pillars from "@/components/Pillars";
 import ExperiencePreview from "@/components/ExperiencePreview";
+import PricingSection from "@/components/PricingSection";
 import PartnerSection from "@/components/PartnerSection";
 import Footer from "@/components/Footer";
 
@@ -11,6 +12,7 @@ const Index = () => {
       <Hero />
       <Pillars />
       <ExperiencePreview />
+      <PricingSection />
       <PartnerSection />
       <Footer />
     </div>
